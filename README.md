@@ -1,24 +1,33 @@
 # MyCFO
 
-Manage Your Wealth Like a Business.
+An AI-powered personal CFO that consolidates bank statements,
+categorizes transactions, analyzes cash flow, and generates
+financial insights.
 
-MyCFO is a personal CFO platform designed for financially sophisticated individuals and families.
+## Features
 
-## Current Features
-
-- Transaction ingestion
-- Cash flow analysis
-- Transaction categorization
-
-## Roadmap
-
-- Monthly cash flow statements
+- Multi-bank transaction import
+- Merchant normalization
+- Cash flow classification
+- Expense categorization
 - Balance sheet tracking
-- Portfolio monitoring
-- Real estate tracking
-- AI-generated financial insights
-- Daily CFO briefing
+- AI financial insights (coming soon)
 
+## Architecture
+
+[project structure]
+
+## Screenshots
+
+(coming tomorrow)
+
+## Future Roadmap
+
+- Streamlit dashboard
+- AI chat assistant
+- Net worth tracking
+- Portfolio analytics
+  
 ## Project Structure
 
 ```text
